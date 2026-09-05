@@ -320,6 +320,6 @@ The drill-through and detailed grid capabilities can help investigate individual
 ---
 
 ## 📸 Dashboard Preview
-![Spotify Analytics Project](https://github.com/aasritkrishna123/Logistics-Dashboard/blob/main/ChatGPT%20Image.png)
+![Spotify Analytics Project](https://github.com/aasritkrishna123/Spotify-Analysis-Project/blob/main/Spotify%20colleage.png)
 
 ---
